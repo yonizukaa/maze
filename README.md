@@ -2,7 +2,7 @@
   Maze
 </h1>
 
-In order to verify that the output file creation is working well, please remove the # in the pyt.sh file
+remove the # in the pyt.sh file
 
 Docker Commands :
 docker build -t maze . and
