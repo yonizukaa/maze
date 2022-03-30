@@ -1,0 +1,7 @@
+version: "3.4"
+services:
+  maze:
+    build:
+      dockerfile: ./docker/Dockerfile
+      context: ../
+    image: efrei/maze

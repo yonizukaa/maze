@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+time python maze.py rect_01.map output_rect_01.map && time python maze.py rect_02.map output_rect_02.map && time python maze.py rect_03.map output_rect_03.map && time python maze.py rect_04.map output_rect_04.map && time python maze.py rect_05.map output_rect_05.map && time python maze.py oval_01.map output_oval_01.map #&& ls -l && cat output_rect_01.map
